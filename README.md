@@ -440,6 +440,7 @@ This survey presents a comprehensive analysis of CS-aware LLM research, covering
 | **DravidianCodeMix** | ~71K code-mixed YouTube comments from Dravidian languages. | Tamil/Kannada/Malayalam-En | Sentiment & Offensive Detection | [🔗](<https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset>) |
 | **GupShup** | 6.8K+ Hindi-English code-switched conversations with summaries. | Hindi-En | Abstractive Summarization | [🔗](<https://aclanthology.org/2021.emnlp-main.499/>) |
 | **HiACC** | Hinglish adult & children code-switched corpus. | Hindi-En | Speech/Text | [🔗](<https://doi.org/10.1016/j.dib.2025.111886>) |
+| **IndicGEO Study 01** | 959 AI shopping-answer records from paired English and romanized Hinglish prompts in two 2026 waves, with repeated runs, raw responses and source records. | Hindi-En | LLM Answer-Engine Evaluation | [🔗](<https://github.com/ifham001/IndicGEO>) |
 | **MMS-5** | Multi-scenario multimodal hate speech. | Tamil/Kan-En | MM Hate Speech | [🔗](<https://arxiv.org/pdf/2310.07423>) |
 | **MultiCoNER** | Large-scale benchmark for complex NER. | 11 Langs | NER | [🔗](<https://aclanthology.org/2022.coling-1.334/>) |
 | **My Boli** | Corpora & Pre-trained Models for Marathi-English. | Marathi-En | NLU | [🔗](<https://aclanthology.org/2023.eacl-main.249>) |
